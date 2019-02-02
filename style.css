@@ -7,6 +7,7 @@ html {
 .container {
     background-color: rgb(228, 228, 228);
     margin: 1rem;
+    
 }
 
 .image {
@@ -22,8 +23,8 @@ html {
 }
 
 .image img {
-    width: 45rem;
-    height: 45rem;
+    width: 40%;
+    height: 40%;
 }
 
 #welcomeText {
@@ -32,7 +33,7 @@ html {
     color:black;
     width: 100%;
     text-align: center;
-    padding: 25rem 0;
+    padding: 27rem 0;
     background-color: rgb(255, 255, 255);
     position: absolute;
     left: 0;
